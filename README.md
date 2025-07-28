@@ -3,7 +3,9 @@ NAME : NARMATHA.P
 INTERN ID : CT04DH855
 DOMAIN : VLSI
 DURATION : 4 WEEKS
-MENTOR : NEELA SANTHOSH# Arithmetic_logic_unit_
+MENTOR : NEELA SANTHOSH
+
+# Arithmetic_logic_unit_
 Task Overview:
 For my internship task, I had to design a simple Arithmetic Logic Unit (ALU) using Verilog HDL. The ALU needed to perform five operations:
 Addition
